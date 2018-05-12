@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '34876'
     url: http://www.gutenberg.org/2009/agents/34876
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30888#The-American-Church-Dictionary-and-Cyclopedia
 gutenberg_issued: '2010-01-07'
 gutenberg_type: Text
 identifiers:
